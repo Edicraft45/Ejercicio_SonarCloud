@@ -1,0 +1,14 @@
+C:\Users\Edi\source\repos\EjercicioGestion\EjercicioGestion\bin\Debug\netcoreapp3.1\EjercicioGestion.exe
+C:\Users\Edi\source\repos\EjercicioGestion\EjercicioGestion\bin\Debug\netcoreapp3.1\EjercicioGestion.deps.json
+C:\Users\Edi\source\repos\EjercicioGestion\EjercicioGestion\bin\Debug\netcoreapp3.1\EjercicioGestion.runtimeconfig.json
+C:\Users\Edi\source\repos\EjercicioGestion\EjercicioGestion\bin\Debug\netcoreapp3.1\EjercicioGestion.runtimeconfig.dev.json
+C:\Users\Edi\source\repos\EjercicioGestion\EjercicioGestion\bin\Debug\netcoreapp3.1\EjercicioGestion.dll
+C:\Users\Edi\source\repos\EjercicioGestion\EjercicioGestion\bin\Debug\netcoreapp3.1\EjercicioGestion.pdb
+C:\Users\Edi\source\repos\EjercicioGestion\EjercicioGestion\obj\Debug\netcoreapp3.1\EjercicioGestion.csproj.AssemblyReference.cache
+C:\Users\Edi\source\repos\EjercicioGestion\EjercicioGestion\obj\Debug\netcoreapp3.1\EjercicioGestion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Edi\source\repos\EjercicioGestion\EjercicioGestion\obj\Debug\netcoreapp3.1\EjercicioGestion.AssemblyInfoInputs.cache
+C:\Users\Edi\source\repos\EjercicioGestion\EjercicioGestion\obj\Debug\netcoreapp3.1\EjercicioGestion.AssemblyInfo.cs
+C:\Users\Edi\source\repos\EjercicioGestion\EjercicioGestion\obj\Debug\netcoreapp3.1\EjercicioGestion.csproj.CoreCompileInputs.cache
+C:\Users\Edi\source\repos\EjercicioGestion\EjercicioGestion\obj\Debug\netcoreapp3.1\EjercicioGestion.dll
+C:\Users\Edi\source\repos\EjercicioGestion\EjercicioGestion\obj\Debug\netcoreapp3.1\EjercicioGestion.pdb
+C:\Users\Edi\source\repos\EjercicioGestion\EjercicioGestion\obj\Debug\netcoreapp3.1\EjercicioGestion.genruntimeconfig.cache
